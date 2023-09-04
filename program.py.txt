@@ -4,3 +4,4 @@ a = input("Любую цифру")
 b = input("Ещё одну")
 sum1 = x + y
 sum2 = a + b
+print(sum1, sum2)
